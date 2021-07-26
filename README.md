@@ -38,3 +38,6 @@
 * Multi-Container environment created (using docker-compose)
 * Backend: Unit-tests availabe
 * Frontend: Unit-tests available
+
+
+<img src="Animation.gif" width="400" height="200" />
