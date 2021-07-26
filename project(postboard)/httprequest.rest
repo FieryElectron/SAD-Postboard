@@ -1,0 +1,45 @@
+GET http://localhost:6666/api/:14/:41?name=666&age=18
+Content-Type: application/json
+
+{
+    "username": "Kyle",
+    "password": "asdsda"
+}
+
+###
+POST http://localhost:6666/api/:14/:41?name=666&age=18
+Content-Type: application/json
+
+{
+     "username": "Kyle",
+    "password": "asdsda"
+}
+
+###
+PUT http://localhost:6666/api/:14/:41?name=666&age=18
+Content-Type: application/json
+
+{
+    "username": "Kyle",
+    "password": "asdsda"
+}
+
+###
+PATCH http://localhost:6666/api/:14/:41?name=666&age=18
+Content-Type: application/json
+
+{
+    "username": "Kyle",
+    "password": "asdsda"
+}
+
+###
+DELETE http://localhost:6666/api/:14/:41?name=666&age=18
+Content-Type: application/json
+
+{
+    "username": "Kyle",
+    "password": "asdsda"
+}
+
+

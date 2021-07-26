@@ -1,0 +1,20 @@
+version: '3.3'
+
+services:
+   authServer:
+     image: chenyiyanggermany/authserver:1.0
+     ports:
+       - "4000:4000"
+     volumes:
+       - SqliteVolumeShare:/SqliteVolumeShare
+     restart: always
+
+   restserver:
+     image: chenyiyanggermany/restserver:1.0
+     ports:
+       - "5000:5000"
+     volumes:
+       - SqliteVolumeShare:/SqliteVolumeShare
+     restart: always
+volumes:
+    SqliteVolumeShare: {}
