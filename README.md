@@ -26,8 +26,8 @@
 
 ### Frontend
 
-* MVC, MVVM or related Pattern used
-* Frontend Routing or Application Controller Logic implemented
+* MVVM Pattern used
+* Frontend Routing implemented
 * Reactive Web App (with no serverside rendering)
 * App uses mobile CSS framework onsen
 * Frontend app bundled using Electron
