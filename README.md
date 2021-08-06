@@ -14,10 +14,10 @@
 * Data Mapper Pattern implemented
 * Query Object Pattern implemented
 
-### Authentification
+### Authentication
 
-* Backend: Manual implementation of user authentification
-* Web Token based authentification
+* Backend: Manual implementation of user authentication
+* Web Token based authentication
 * User can login from frontend
 * User can login via  OAuth2 (Google) from frontend
 * User registration working from frontend
