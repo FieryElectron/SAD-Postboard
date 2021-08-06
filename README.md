@@ -4,7 +4,7 @@
 
 ### REST API
 
-* Richardson Maturity Model - Level 2 (Hypermedia Control)
+* Richardson Maturity Model - Level 3 (Hypermedia Control)
 * API is safe and idempotent
 * API supports query filters
 * API supports pagination
